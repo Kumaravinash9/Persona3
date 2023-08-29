@@ -47,6 +47,11 @@ Response :
 ![postman_testing](https://github.com/Kumaravinash9/Campground/assets/64456168/03b085fd-1bfc-4d48-a179-32e0b939613a)
 
 
+## Database Overview :
+
+![database_overview](https://github.com/Kumaravinash9/Campground/assets/64456168/20ad076c-b698-475f-bde9-96f1d3e16797)
+
+
 ### Prerequisites
 
 * `java version "18.0.2" 2022-07-19`
